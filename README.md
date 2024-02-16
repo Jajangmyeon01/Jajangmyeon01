@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C# Languange**
 
-- 💬 Ask me about **Unity and Unreal Engine**
+- 💬 Ask me about *C#.Net Core MVC* and Unity**
 
 - 📫 How to reach me **genexusvergara01@gmail.com**
 
