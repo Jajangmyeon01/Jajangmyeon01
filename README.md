@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gen Exus Vergara</h1>
-<h3 align="center">A passionate full stack Web and Game developer from Philippines</h3>
+<h3 align="center">A passionate full stack Web and Game Developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jajangmyeon01&label=Profile%20views&color=0e75b6&style=flat" alt="jajangmyeon01" /> </p>
 
