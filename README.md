@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Web/Game Development**
 
-- 🌱 I’m currently learning **C# Languange**
+- 🌱 I’m currently learning **C# Language**
 
 - 💬 Ask me about **C# ASP.Net Core MVC and Unity****
 
