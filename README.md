@@ -5,8 +5,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldrin112602&theme=prussian" width="100%" height="auto" />
 </div>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldrin112602&theme=prussian" width="48%" height="auto" style="display: inline;" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldrin112602&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jajangmyeon01&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jajangmyeon01&theme=prussian" width="48%" height="auto" style="display: inline;" />
 </div>
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldrin112602&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
