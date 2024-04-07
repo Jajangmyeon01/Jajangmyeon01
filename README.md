@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Gen Exus Vergara</h1>
 <h3 align="center">I'm currently a 3rd year College Student. I'm working and learning to become a successful programmer/Web/Game Dev. in the future</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jajangmyeon01&label=Profile%20views&color=0e75b6&style=flat" alt="jajangmyeon01" /> </p>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldrin112602&theme=prussian" width="100%" height="auto" />
+</div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldrin112602&theme=prussian" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldrin112602&theme=prussian" width="48%" height="auto" style="display: inline;" />
+</div>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldrin112602&theme=prussian&utcOffset=+6.5" width="48%" height="auto" style="display: inline;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldrin112602&theme=prussian" width="48%" height="auto" style="display: inline;" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jajangmyeon01" alt="jajangmyeon01" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@jajangmyeon1001" target="blank"><img src="https://img.shields.io/twitter/follow/@jajangmyeon1001?logo=twitter&style=for-the-badge" alt="@jajangmyeon1001" /></a> </p>
-
-- 🔭 I’m currently working on **Web/Game Development**
-
-- 🌱 I’m currently learning **C# Language**
-
-- 💬 Ask me about **C# ASP.Net Core MVC and Unity****
-
-- 📫 How to reach me **genexusvergara01@gmail.com**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldrin112602&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+</p>
+<p align="center">
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,3 +41,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jajangmyeon01&show_icons=true&locale=en" alt="jajangmyeon01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jajangmyeon01&" alt="jajangmyeon01" /></p>
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Jajangmyeon01/count.svg" />
+</p>
+
+---
+
+
+
