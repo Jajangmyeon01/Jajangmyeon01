@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gen Exus Vergara</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Gen+Exus+Vergara)](https://git.io/typing-svg)</h1>
 <h3 align="center">I'm currently a 3rd year College Student. I'm working and learning to become a successful programmer/Web/Game Dev. in the future</h3>
 
 <div align="center">
